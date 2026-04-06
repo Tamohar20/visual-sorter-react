@@ -3,11 +3,14 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
+  "homepage": "https://tamohar20.github.io/visual-sorter-react",
+  
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
